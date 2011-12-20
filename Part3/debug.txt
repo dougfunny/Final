@@ -1,0 +1,2344 @@
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+
+err: gl::Context::flush(2776): CreateQuery failed hr=8876086a
+

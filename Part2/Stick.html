@@ -1,0 +1,236 @@
+<!DOCTYPE HTML> 
+<html>
+    <head> 
+    <link rel="stylesheet" href="stick.css" type="text/css">
+    <script src="kinetic2d-v1.0.2.js"></script>
+    <script>
+            var LineWidth = 155;
+            var LineHeight = 10;
+
+            function drawLine(x, y)
+            {
+                this.x = x;
+                this.y = y;
+   		this.width = LineWidth;
+		this.height = LineHeight;
+ 		context.fillRect(-LineWidth / 2, -LineHeight / 2, LineWidth, LineHeight);
+            }
+
+
+               var boxWidth = 200;
+               var boxHeight = 10;
+
+            function drawbox(x, y)
+            {
+                this.x = x;
+                this.y = y;
+   		this.width = boxWidth;
+		this.height = boxHeight;
+ 		context.fillRect(-boxWidth / 2, -boxHeight / 2, boxWidth, boxHeight);
+            }
+
+
+
+
+var Line1x=-20;
+var Line2x= 10;
+var Line3x= 1;
+var Line4x= 1;
+
+var Line1xTrans = 160;
+var Line2xTrans = 190;
+
+var Line1yTrans = 180;
+var Line2yTrans = 160;   
+
+var Line3xTrans =0;
+var Line3yTrans =0;
+
+
+var Line4xTrans = 150;
+var Line4yTrans = 150;
+
+
+var firstTriangle = false;
+var scaleLine1 =1;
+
+
+
+   function init()
+            {
+               canvas = document.getElementById("stickScene");
+               context = canvas.getContext("2d");
+               
+
+
+            }
+
+ function getRadians(deg) {
+                return deg * Math.PI / 180;
+            }
+
+            function run()
+            {
+                
+            animate();
+paintIt();
+            
+            }
+
+ function animate(){
+
+if(Line1x<69){Line1x+=.5;}
+if(Line2x<115){Line2x+=.5;}
+if(Line3x<180){Line3x+=.5;}
+if(Line4x<180){Line4x+=1;}
+
+if(Line2xTrans<195){Line2xTrans+=6;}
+if(Line1xTrans<276){Line1xTrans+=6;}
+if(Line2yTrans>389){Line2yTrans+=6;}
+ 
+if(Line3yTrans<250){Line3yTrans+=6;}
+if(Line3xTrans<230)
+{Line3xTrans+=6;
+}
+else{firstTriangle = true;}
+
+if(Line4xTrans<250){Line4xTrans+=6;}
+if(Line4yTrans<230){Line4yTrans+=6;}
+
+
+ 
+
+
+
+}
+
+
+function paintIt(){
+ 
+            drawLineOne();
+            drawLineTwo();
+            drawLineThree();
+
+
+if(firstTriangle == true){
+drawTriangle();}
+
+
+}
+
+
+
+ function drawLineOne(){ 
+
+kin.clear();
+context.save();
+context.fillStyle = "red";           
+context.translate( Line1xTrans, 162); context.scale( 1.2, 1.2 );
+context.rotate(getRadians(Line1x) );
+drawLine( 0,0 );
+
+context.restore(); 
+}
+  function drawLineTwo(){ 
+context.save();
+context.fillStyle = "red";           
+context.translate(Line2xTrans, Line2yTrans); 
+context.scale( 1.2, 1.2 );
+context.rotate(getRadians(Line2x) );
+drawLine(0,0);
+context.restore();
+}
+
+
+  function drawLineThree(){ 
+context.save();
+context.fillStyle = "red";           
+context.translate(Line3xTrans, Line3yTrans); 
+context.scale( 1.2, 1.2 );
+context.rotate(getRadians(Line3x) );
+drawLine(0,0);
+context.restore();
+
+
+
+}
+
+ 
+  function drawTriangle(){ 
+         
+
+context.save();
+context.fillStyle = "blue";           
+context.translate(130, 190); 
+context.scale( 1.2, 1.2 );
+context.rotate(getRadians(90) );
+drawbox(100,0);
+context.restore();
+
+
+
+
+context.save();
+context.fillStyle = "blue";           
+context.translate(250, 75); 
+context.scale( 1.2, 1.2 );
+context.rotate(getRadians(180) );
+drawbox(0,60);
+context.restore();
+
+
+
+
+context.save();
+context.fillStyle = "blue";           
+context.translate(365, 190); 
+context.scale( 1.2, 1.2 );
+context.rotate(getRadians(90) );
+drawbox(0,160);
+context.restore();
+
+
+context.save();
+context.fillStyle = "blue";           
+context.translate(246, 310); 
+context.scale( 1.2, 1.2 );
+context.rotate(getRadians(180) );
+drawbox(0,160);
+context.restore();
+
+
+
+
+ 
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            window.onload = function() {
+                init();
+           
+                kin = new Kinetic_2d("stickScene");
+                kin.setDrawStage(run);
+                kin.startAnimation();
+              
+
+            };
+        </script> 
+    </head> 
+    <body onmousedown="return false;"> 
+        <canvas id="stickScene" width="480" height="320"></canvas> 
+    </body>
+</html>
